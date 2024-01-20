@@ -10,19 +10,14 @@
         "link": "https://www.youtube.com/@Ayueshi_"
     },
     {
-        "role": "admin",
-        "name": "List Admin",
+        "role": "helper",
+        "name": "Monstrosity",
         "link": "https://www.youtube.com/@Prometheus_Alt"
     },
     {
         "role": "helper",
-        "name": "List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
-    },
-    {
-        "role": "trial",
-        "name": "Trial List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "bitmaybe",
+        "link": "#"
     },
     {
         "role": "dev",
