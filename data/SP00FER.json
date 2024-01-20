@@ -1,0 +1,18 @@
+{
+    "id": 1282,
+    "name": "SP00FER",
+    "author": "KaPii",
+    "creators": [],
+    "verifier": "Sydno",
+    "verification": "https://youtu.be/rmh4gDw5n50",
+    "percentToQualify": 70,
+    "password": "Not Copyable",
+    "records": [
+        {
+        "user": "Domesz",
+        "link": "https://www.youtube.com/watch?v=o4s-6k42LbM",
+        "percent": 100,
+        "hz": 60
+        }
+    ]
+}
