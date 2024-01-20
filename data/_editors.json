@@ -1,8 +1,13 @@
 [
     {
         "role": "owner",
-        "name": "List Owner",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "RedactedsLair",
+        "link": "https://www.youtube.com/@redactedslair"
+    },
+    {
+        "role": "owner",
+        "name": "Ayueshi",
+        "link": "https://www.youtube.com/@Ayueshi_"
     },
     {
         "role": "admin",
