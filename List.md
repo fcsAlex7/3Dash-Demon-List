@@ -9,7 +9,7 @@ you will need the following things to be able to add levels.
 
 - A brain
 - Basic coding knowledge
--[Visual Studio Code](https://code.visualstudio.com/)
+- [Visual Studio Code](https://code.visualstudio.com/)
 - [Git](https://git-scm.com/)
 
 # Adding Levels
