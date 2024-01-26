@@ -8,6 +8,29 @@
     "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
-       
+{
+    "user": "Sombreras",
+    "link": "https://youtu.be/QRMJt8WIXdQ",
+    "percent": 100,
+    "hz": 240
+},
+{
+    "user": "Valts",
+    "link": "https://youtu.be/TqRXWKN69h0",
+    "percent": 100,
+    "hz": 240
+},
+{
+    "user": "Mogaboss",
+    "link": "https://www.youtube.com/watch?v=IWbvlHJr-_k",
+    "percent": 100,
+    "hz": 240
+},
+{
+    "user": "zemljotres",
+    "link": "https://youtu.be/rrg6h76udJ4",
+    "percent": 100,
+    "hz": 240
+}       
     ]
 }

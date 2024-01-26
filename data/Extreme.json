@@ -8,6 +8,35 @@
     "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
-       
+{
+    "user": "Valts",
+    "link": "https://www.youtube.com/watch?v=U5cKFaBPNLY",
+    "percent": 100,
+    "hz": 60
+},
+{
+    "user": "Farlayy",
+    "link": "https://www.youtube.com/watch?v=3bNQdQdA9vw",
+    "percent": 100,
+    "hz": 60
+},
+{
+    "user": "Mogsboss",
+    "link": "https://www.youtube.com/watch?v=G7icHiJ6eL0",
+    "percent": 100,
+    "hz": 60
+},
+{
+    "user": "fcsAlex7",
+    "link": "https://www.youtube.com/watch?v=163xZDl53sE",
+    "percent": 100,
+    "hz": 60
+},
+{
+    "user": "zemljotres",
+    "link": "https://youtu.be/HuvyEjmLr8A?si=oUqrRF3F7B73aDf",
+    "percent": 100,
+    "hz": 60
+}         
     ]
 }

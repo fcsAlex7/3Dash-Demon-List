@@ -8,6 +8,65 @@
     "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
-       
+{
+    "user": "Bit",
+    "link": "https://www.youtube.com/watch?v=KFACN70faZ0",
+    "percent": 100,
+    "hz": 60
+},
+{
+    "user": "PR9NI4EK1488",
+    "link": "https://www.youtube.com/watch?v=Jq1KXRmTR50",
+    "percent": 100,
+    "hz": 60
+},
+{
+    "user": "Valts",
+    "link": "https://youtu.be/i3MfZUtYMiQ",
+    "percent": 100,
+    "hz": 60
+},
+{
+    "user": "ChaseLux",
+    "link": "https://www.youtube.com/watch?v=0nYX4KgWbL8",
+    "percent": 100,
+    "hz": 60
+},
+{
+    "user": "Zippiks",
+    "link": "https://www.youtube.com/watch?v=EMfc9QFLTwk",
+    "percent": 100,
+    "hz": 60
+},       
+{
+    "user": "Sombreras",
+    "link": "https://youtu.be/1OGXYQJF4nk?t=155",
+    "percent": 100,
+    "hz": 60
+},
+{
+    "user": "Exvie",
+    "link": "https://www.youtube.com/watch?v=-8jrzODOOtM",
+    "percent": 100,
+    "hz": 60
+},
+{
+    "user": "Domesz",
+    "link": "https://www.youtube.com/watch?v=QKbxqu9HJfo",
+    "percent": 100,
+    "hz": 60
+},
+{
+    "user": "Monstrosity",
+    "link": "https://www.youtube.com/watch?v=4ckwGjEm8g4",
+    "percent": 100,
+    "hz": 60
+},
+{
+    "user": "Boro",
+    "link": "https://youtu.be/uRLcCZArV2s?si=KYxSjbPKu42RnoL7&t=884",
+    "percent": 100,
+    "hz": 60
+}
     ]
 }
