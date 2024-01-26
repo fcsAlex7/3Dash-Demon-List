@@ -8,6 +8,23 @@
     "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
-       
+{
+    "user": "Mr.Pandequeso",
+    "link": "https://www.youtube.com/watch?v=m6251_Dfh6Y",
+    "percent": 100,
+    "hz": 60
+},  
+{
+    "user": "Sombreras",
+    "link": "https://youtu.be/Cj-LJO3QGlk?t=167",
+    "percent": 100,
+    "hz": 60
+},
+{
+    "user": "Mogaboss",
+    "link": "https://www.youtube.com/watch?v=L4JiXVeEP_M",
+    "percent": 100,
+    "hz": 60
+}     
     ]
 }

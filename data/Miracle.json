@@ -8,6 +8,17 @@
     "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
-       
+{
+    "user": "sydno",
+    "link": "https://youtu.be/DoL2xcD9WDk",
+    "percent": 100,
+    "hz": 60
+},
+{
+    "user": "Valts",
+    "link": "https://youtu.be/ML9cnWSZkgM",
+    "percent": 100,
+    "hz": 60
+}     
     ]
 }

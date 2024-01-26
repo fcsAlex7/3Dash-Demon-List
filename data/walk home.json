@@ -8,6 +8,30 @@
     "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
-       
+
+{
+    "user": "boro",
+    "link": "https://youtu.be/CqSTDvnNz10?t=301",
+    "percent": 100,
+    "hz": 60
+},
+{
+    "user": "Monstrosity",
+    "link": "https://www.youtube.com/watch?v=1dDC2Ti3Pc8",
+    "percent": 100,
+    "hz": 60
+},
+{
+    "user": "Sombreras",
+    "link": "https://youtu.be/zppn5SEqeZI?si=9Sqi0Cm55huAn5DC",
+    "percent": 100,
+    "hz": 60
+},
+{
+    "user": "Luki",
+    "link": "https://youtu.be/iwiGROMo6Hc",
+    "percent": 100,
+    "hz": 60
+}       
     ]
 }

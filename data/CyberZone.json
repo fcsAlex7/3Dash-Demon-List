@@ -8,6 +8,17 @@
     "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
-       
+{
+    "user": "thebabybeastone",
+    "link": "https://www.youtube.com/watch?v=RmS7qaxavXU",
+    "percent": 100,
+    "hz": 240
+},
+{
+    "user": "Valts",
+    "link": "https://youtu.be/Sd9agdrAJ0E",
+    "percent": 100,
+    "hz": 240
+}       
     ]
 }

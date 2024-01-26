@@ -8,6 +8,17 @@
     "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
-       
+{
+    "user": "Valts",
+    "link": "https://youtu.be/S3Jg-0qaM8k",
+    "percent": 100,
+    "hz": 240
+},
+{
+    "user": "Domesz",
+    "link": "https://www.youtube.com/watch?v=uWRgyvpuAfk",
+    "percent": 100,
+    "hz": 240
+}       
     ]
 }

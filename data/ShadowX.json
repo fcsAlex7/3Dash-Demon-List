@@ -8,6 +8,29 @@
     "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
-       
+{
+    "user": "Valts",
+    "link": "https://youtu.be/35xz03n_zHo",
+    "percent": 100,
+    "hz": 60
+},
+{
+    "user": "Mogaboss",
+    "link": "https://www.youtube.com/watch?v=221qm8Tzpt8",
+    "percent": 100,
+    "hz": 60
+},
+{
+    "user": "egg",
+    "link": "https://www.youtube.com/watch?v=8Js_CEuWo84",
+    "percent": 100,
+    "hz": 60
+},
+{
+    "user": "JujuPX",
+    "link": "https://youtu.be/ZzB6JrWlMb0",
+    "percent": 100,
+    "hz": 60
+}          
     ]
 }
