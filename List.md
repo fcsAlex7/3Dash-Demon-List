@@ -9,9 +9,13 @@ you will need the following things to be able to add levels.
 
 - A brain
 - Basic coding knowledge
+- A github account
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Git](https://git-scm.com/)
 
+# Downloading The Repository
+to download the repository, you need to first fork the repository.
+[](.github-assets/1.png)
 # Adding Levels
 
 To add levels to the list, you first need to make a .json file in the data folder.
