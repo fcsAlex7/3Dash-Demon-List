@@ -15,7 +15,7 @@ you will need the following things to be able to add levels.
 
 # Downloading The Repository
 to download the repository, you need to first fork the repository.
-[](guide/1.png)
+![Forking a Repository](guide/1.png)
 # Adding Levels
 
 To add levels to the list, you first need to make a .json file in the data folder.
