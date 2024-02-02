@@ -4,10 +4,16 @@
     "author": "Bit",
     "creators": [],
     "verifier": "Bit",
-    "verification": "https://youtu.be/dwFOaGqLf-U?si=XBHwAJT-7Drb9xq-",
+    "verification": "https://youtu.be/dwFOaGqLf-U",
     "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
+{
+    "user": "Sydno",
+    "link": "https://www.youtube.com/watch?v=4S3Ip48OV3U",
+    "percent": 100,
+    "hz": 240
+},
 {
     "user": "Valts",
     "link": "https://youtu.be/S3Jg-0qaM8k",
