@@ -8,6 +8,11 @@
     "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
-       
+{
+    "user": "Sombreras",
+    "link": "https://www.youtube.com/watch?v=H410iCYPyFc",
+    "percent": 100,
+    "hz": 60
+}       
     ]
 }
