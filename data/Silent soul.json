@@ -63,7 +63,7 @@
     "hz": 60
 },
 {
-    "user": "Mr.Pendequeso",
+    "user": "Mr.Pandequeso",
     "link": "https://youtu.be/gkgy_PtHmVY",
     "percent": 100,
     "hz": 60
@@ -151,6 +151,24 @@
     "link": "https://www.youtube.com/watch?v=6hFWjmaebdU",
     "percent": 100,
     "hz": 60
+},
+{
+    "user": "JujuPX",
+    "link": "https://youtu.be/EyQHapQqDbA",
+    "percent": 100,
+    "hz": 60
+},
+{
+    "user": "Vulcat",
+    "link": "https://youtu.be/ctcax8Dt9A0",
+    "percent": 100,
+    "hz": 144
+},
+{
+    "user": "vurtivus",
+    "link": "https://www.youtube.com/watch?v=bGptCwgL8ik",
+    "percent": 100,
+    "hz": 6
 }
     ]
 }
