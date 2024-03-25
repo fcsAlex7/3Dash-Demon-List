@@ -8,17 +8,35 @@
     "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
-        {
-            "user": "fcsAlex7",
-            "link": "https://www.youtube.com/watch?v=vs-jNvP4mGc&list=PLfRJRBwGUZDmVSNhCeW9M4EqSc3ypons6&index=36&pp=iAQB",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Monstrosity",
-            "link": "https://www.youtube.com/watch?v=9DOoFVe0KrI",
-            "percent": 100,
-            "hz": 60
-        }       
+{
+    "user": "fcsAlex7",
+    "link": "https://www.youtube.com/watch?v=vs-jNvP4mGc&list=PLfRJRBwGUZDmVSNhCeW9M4EqSc3ypons6&index=36&pp=iAQB",
+    "percent": 100,
+    "hz": 240
+},
+{
+    "user": "Monstrosity",
+    "link": "https://www.youtube.com/watch?v=9DOoFVe0KrI",
+    "percent": 100,
+    "hz": 60
+},
+{
+    "user": "JujuPX",
+    "link": "https://youtu.be/q8aQMqR7oZs",
+    "percent": 100,
+    "hz": 60
+},
+{
+    "user": "Tomato",
+    "link": "https://medal.tv/games/requested/clips/1KwQVus9vRkz-b/d1337U8Gi3Cr?invite=cr-MSxyNHUsOTU3MTY3NTQs",
+    "percent": 100,
+    "hz": 60
+},
+{
+    "user": "vurtivus",
+    "link": "https://www.youtube.com/watch?v=PGi7H99rqDg",
+    "percent": 100,
+    "hz": 60
+}                     
     ]
 }

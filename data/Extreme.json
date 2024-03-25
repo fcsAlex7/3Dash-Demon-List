@@ -21,7 +21,7 @@
     "hz": 60
 },
 {
-    "user": "Mogsboss",
+    "user": "Mogaboss",
     "link": "https://www.youtube.com/watch?v=G7icHiJ6eL0",
     "percent": 100,
     "hz": 60
@@ -37,6 +37,12 @@
     "link": "https://youtu.be/HuvyEjmLr8A?si=oUqrRF3F7B73aDf",
     "percent": 100,
     "hz": 60
-}         
+},
+{
+    "user": "egg",
+    "link": "https://www.youtube.com/watch?v=qzPJqbSqGRc",
+    "percent": 100,
+    "hz": 60
+}             
     ]
 }

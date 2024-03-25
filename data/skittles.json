@@ -36,7 +36,13 @@
     "user": "MadeInPoland",
     "link": "https://www.youtube.com/watch?v=6hFWjmaebdU",
     "percent": 100,
-    "hz": 60
-}      
+    "hz": 240
+},
+{
+    "user": "woeq",
+    "link": "https://youtu.be/V9H4rFD4Q0k?si=H3BKQcr25t5LgBkT",
+    "percent": 100,
+    "hz": 165
+}  
     ]
 }

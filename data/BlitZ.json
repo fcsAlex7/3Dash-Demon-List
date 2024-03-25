@@ -1,9 +1,9 @@
 {
     "id": 6302,
     "name": "Blit-Z",
-    "author": "¨Zippiks",
+    "author": "Zippiks",
     "creators": [],
-    "verifier": "¨Zippiks",
+    "verifier": "Zippiks",
     "verification": "https://www.youtube.com/watch?v=gYuiJlZz_mA",
     "percentToQualify": 100,
     "password": "Not Copyable",
@@ -31,6 +31,18 @@
     "link": "https://www.youtube.com/watch?v=OR3LbrJCZ9k&list=PLfRJRBwGUZDmVSNhCeW9M4EqSc3ypons6&index=43&pp=iAQB",
     "percent": 100,
     "hz": 240
-}     
+},
+{
+    "user": "Babic",
+    "link": "https://youtu.be/ycYDI92--Ec",
+    "percent": 100,
+    "hz": 60
+},
+{
+    "user": "Tomato",
+    "link": "https://youtu.be/BRrzL7a8hU4",
+    "percent": 100,
+    "hz": 60
+}          
     ]
 }
