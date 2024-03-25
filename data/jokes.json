@@ -1,5 +1,5 @@
 {
-    "id": 6851,
+    "id": 9588,
     "name": "no jokes",
     "author": "HydroPixels",
     "creators": [],
@@ -8,6 +8,11 @@
     "percentToQualify": 95,
     "password": "Not Copyable",
     "records": [
-        
+{
+    "user": "fcsAlex7",
+    "link": "https://youtu.be/zpnyQoRgLJ8",
+    "percent": 100,
+    "hz": 240
+}
     ]
 }
