@@ -3,14 +3,14 @@
     "name": "The Rock House",
     "author": "Zippiks",
     "creators": [],
-    "verifier": "Zippiks",
-    "verification": "https://www.youtube.com/watch?v=K04wUybT_iw&t=5s",
+    "verifier": "Valts",
+    "verification": "https://youtu.be/a2TpWwXeNE8",
     "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
 {
-    "user": "Valts",
-    "link": "https://youtu.be/a2TpWwXeNE8",
+    "user": "Zippiks",
+    "link": "https://www.youtube.com/watch?v=K04wUybT_iw",
     "percent": 100,
     "hz": 60
 }, 
