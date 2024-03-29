@@ -10,9 +10,15 @@
     "records": [
 {
     "user": "Zippiks",
-    "link": "https://youtu.be/Fhy47ecMg8M",
-    "percent": 79,
+    "link": "https://www.youtube.com/watch?v=1YyVHKEGETk",
+    "percent": 100,
     "hz": 165
-}  
+},
+{
+    "user": "sydno",
+    "link": "https://youtu.be/X0YDClBmFLE",
+    "percent": 100,
+    "hz": 240
+}    
     ]
 }
