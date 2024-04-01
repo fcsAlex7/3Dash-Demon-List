@@ -192,7 +192,25 @@
     "user": "Dabadabadooda",
     "link": "https://youtu.be/GTSwoJ_0x6c",
     "percent": 100,
-    "hz": 6
+    "hz": 60
+},
+{
+    "user": "YoumanGY",
+    "link": "https://youtu.be/gHrz8gUu9Nw",
+    "percent": 100,
+    "hz": 75
+},
+{
+    "user": "egg",
+    "link": "https://www.youtube.com/watch?v=yPP71SuM6jc",
+    "percent": 100,
+    "hz": 60
+},
+{
+    "user": "CrazEyy",
+    "link": "https://youtu.be/CC4zgXk1VTY",
+    "percent": 100,
+    "hz": 240
 }
     ]
 }
