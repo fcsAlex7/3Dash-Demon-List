@@ -3,14 +3,14 @@
     "name": "The Rock House",
     "author": "Zippiks",
     "creators": [],
-    "verifier": "Valts",
-    "verification": "https://youtu.be/a2TpWwXeNE8",
+    "verifier": "[USA] FCSalex7",
+    "verification": "https://www.youtube.com/watch?v=aj9xWWzt0CA",
     "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
 {
-    "user": "Zippiks",
-    "link": "https://www.youtube.com/watch?v=K04wUybT_iw",
+    "user": "Valts",
+    "link": "https://youtu.be/a2TpWwXeNE8",
     "percent": 100,
     "hz": 60
 }, 
@@ -33,6 +33,12 @@
     "hz": 60
 },
 {
+    "user": "Zippiks",
+    "link": "https://www.youtube.com/watch?v=K04wUybT_iw",
+    "percent": 100,
+    "hz": 60
+},
+{
     "user": "fWite",
     "link": "https://www.youtube.com/watch?v=Fgy7Cm51yZQ",
     "percent": 100,
@@ -45,14 +51,8 @@
     "hz": 60
 },
 {
-    "user": "Domesz",
+    "user": "[HUN] Domesz",
     "link": "https://www.youtube.com/watch?v=yO9RJPs1A58",
-    "percent": 100,
-    "hz": 60
-},
-{
-    "user": "[USA] FCSAlex7",
-    "link": "https://www.youtube.com/watch?v=aj9xWWzt0CA",
     "percent": 100,
     "hz": 60
 },
