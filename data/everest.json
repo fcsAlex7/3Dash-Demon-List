@@ -3,22 +3,28 @@
     "name": "Everest",
     "author": "Monstrosity",
     "creators": ["Mystic"],
-    "verifier": "Monstrosity",
+    "verifier": "[UK] Monstrosity",
     "verification": "https://www.youtube.com/watch?v=XS6afx6qEw8",
     "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
 {
-    "user": "fcsAlex7",
+    "user": "[USA] FCSAlex7",
     "link": "https://youtu.be/Lkbg2qmhcPs",
     "percent": 100,
     "hz": 240
 },
 {
-    "user": "egg",
+    "user": "[CAN] egg",
     "link": "https://www.youtube.com/watch?v=iQ3q-NM14sc",
     "percent": 100,
     "hz": 60
+},
+{
+    "user": "[GER] Kalendar",
+    "link": "https://www.youtube.com/watch?v=auZlkDnOBkQ",
+    "percent": 100,
+    "hz": 360
 }
     ]
 }
