@@ -3,7 +3,7 @@
     "name": "ShadowStep",
     "author": "Monstrosity",
     "creators": [],
-    "verifier": "Monstrosity",
+    "verifier": "[UK] Monstrosity",
     "verification": "https://youtu.be/Y7pd9QUWF_0",
     "percentToQualify": 100,
     "password": "Not Copyable",
@@ -13,6 +13,18 @@
     "link": "https://youtu.be/JO0LQ4uS7qk",
     "percent": 100,
     "hz": 240
-}       
+},
+{
+    "user": "[GER] Kalendar",
+    "link": "https://youtu.be/pBqxr0qzd_4",
+    "percent": 100,
+    "hz": 360
+},
+{
+    "user": "[FRA] YoumanGY",
+    "link": "https://youtu.be/r6gkPfS7YCM",
+    "percent": 100,
+    "hz": 75
+}
     ]
 }

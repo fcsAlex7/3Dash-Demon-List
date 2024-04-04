@@ -51,7 +51,7 @@
     "hz": 60
 },
 {
-    "user": "fcsAlex7",
+    "user": "[USA] FCSAlex7",
     "link": "https://www.youtube.com/watch?v=aj9xWWzt0CA",
     "percent": 100,
     "hz": 60
@@ -69,16 +69,22 @@
     "hz": 120
 },
 {
-    "user": "egg",
+    "user": "[CAN] egg",
     "link": "https://www.youtube.com/watch?v=KQkjhHkKCgc",
     "percent": 100,
     "hz": 60
 },
 {
-    "user": "JujuPX",
+    "user": "[FRA] JujuPX",
     "link": "https://youtu.be/K6F-zmBhoSk",
     "percent": 100,
     "hz": 240
-}   
+},
+{
+    "user": "[USA] Block",
+    "link": "https://youtu.be/uhV1EE3dQFE",
+    "percent": 100,
+    "hz": 144
+}      
     ]
 }    

@@ -3,7 +3,7 @@
     "name": "The Nightmare",
     "author": "boro",
     "creators": [],
-    "verifier": "boro",
+    "verifier": "[UKR] boro",
     "verification": "https://youtu.be/e_IFWVmi3xo?si=Ltr_XUOvlK0JkFp2",
     "percentToQualify": 100,
     "password": "Not Copyable",
@@ -13,6 +13,12 @@
     "link": "https://youtu.be/5-8_88XVTCw",
     "percent": 100,
     "hz": 240
-} 
+},
+{
+    "user": "[FRA] YoumanGY",
+    "link": "https://youtu.be/r6gkPfS7YCM",
+    "percent": 100,
+    "hz": 75
+}
     ]
 }

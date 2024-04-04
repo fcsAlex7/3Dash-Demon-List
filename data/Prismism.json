@@ -27,12 +27,12 @@
     "hz": 60
 },
 {
-    "user": "Mr.Pandequeso",
+    "user": "[COL] Mr.Pandequeso",
     "link": "https://www.youtube.com/watch?v=7L-0CsOGfok",
     "percent": 100,
     "hz": 60
 },{
-    "user": "Monstrosity",
+    "user": "[UK] Monstrosity",
     "link": "https://www.youtube.com/watch?v=VtI7MZYc_uc",
     "percent": 100,
     "hz": 144
@@ -44,8 +44,8 @@
     "hz": 60
 },
 {
-    "user": "fcsAlex7",
-    "link": "https://www.youtube.com/watch?v=ICmExBIhkjw&list=PLfRJRBwGUZDmVSNhCeW9M4EqSc3ypons6&index=40&pp=iAQB",
+    "user": "[USA] FCSAlex7",
+    "link": "https://www.youtube.com/watch?v=ICmExBIhkjw",
     "percent": 100,
     "hz": 240
 },
@@ -54,6 +54,12 @@
     "link": "https://www.youtube.com/watch?v=VTBjSU7xQRk",
     "percent": 100,
     "hz": 60
-}      
+},
+{
+    "user": "[UK] gobbydobby",
+    "link": "https://youtu.be/g16Y2Bzyhac",
+    "percent": 100,
+    "hz": 360
+}          
     ]
 }

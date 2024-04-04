@@ -3,22 +3,22 @@
     "name": "The Road to Dabeiba",
     "author": "Mr.Pandequeso",
     "creators": [],
-    "verifier": "Mr.Pandequeso",
+    "verifier": "[COL] Mr.Pandequeso",
     "verification": "https://youtu.be/yuXDAaySvi40",
     "percentToQualify": 76,
     "password": "Not Copyable",
     "records": [
-        {
-        "user": "Valts",
-        "link": "https://www.youtube.com/watch?v=5o80WIXxwcQ",
-        "percent": 100,
-        "hz": 60
-        },
-        {
-            "user": "fcsAlex7",
-            "link": "https://www.youtube.com/watch?v=mtWe8ZAytD4&list=PLfRJRBwGUZDmVSNhCeW9M4EqSc3ypons6&index=1&pp=iAQB",
-            "percent": 100,
-            "hz": 240
-        }
+{
+    "user": "Valts",
+    "link": "https://www.youtube.com/watch?v=5o80WIXxwcQ",
+    "percent": 100,
+    "hz": 60
+},
+{
+    "user": "[USA] FCSAlex7",
+    "link": "https://www.youtube.com/watch?v=mtWe8ZAytD4",
+    "percent": 100,
+    "hz": 240
+}
     ]
 }

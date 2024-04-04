@@ -15,14 +15,14 @@
     "hz": 60
 },
 {
-    "user": "Monstrosity",
+    "user": "[UK] Monstrosity",
     "link": "https://youtu.be/S3Jg-0qaM8k",
     "percent": 100,
     "hz": 144
 },
 {
-    "user": "fcsAlex7",
-    "link": "https://www.youtube.com/watch?v=V2rRTZfvVVg&list=PLfRJRBwGUZDmVSNhCeW9M4EqSc3ypons6&index=44&pp=iAQB",
+    "user": "[USA] FCSAlex7",
+    "link": "https://www.youtube.com/watch?v=V2rRTZfvVVg",
     "percent": 100,
     "hz": 240
 },
@@ -43,6 +43,18 @@
     "link": "https://www.youtube.com/watch?v=LdOxsCNnRB8",
     "percent": 100,
     "hz": 6
-}
+},
+{
+    "user": "[GER] Kalendar",
+    "link": "https://youtu.be/pBqxr0qzd_4",
+    "percent": 100,
+    "hz": 360
+},
+{
+    "user": "CrazEyy",
+    "link": "https://youtu.be/5-8_88XVTCw",
+    "percent": 100,
+    "hz": 240
+}  
     ]
 }

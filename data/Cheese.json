@@ -15,8 +15,8 @@
     "hz": 240
 },        
 {
-    "user": "fcsAlex7",
-    "link": "https://www.youtube.com/watch?v=oc0FwV1IDkM&list=PLfRJRBwGUZDmVSNhCeW9M4EqSc3ypons6&index=39&pp=iAQB",
+    "user": "[USA] FCSAlex7",
+    "link": "https://www.youtube.com/watch?v=oc0FwV1IDkM",
     "percent": 100,
     "hz": 240
 },
@@ -25,6 +25,18 @@
     "link": "https://www.youtube.com/watch?v=0BkbobIyAX8",
     "percent": 100,
     "hz": 60
+},
+{
+    "user": "[GER] Kalendar",
+    "link": "https://youtu.be/pBqxr0qzd_4",
+    "percent": 100,
+    "hz": 360
+},
+{
+    "user": "CrazEyy",
+    "link": "https://youtu.be/7ITvVox1XIc",
+    "percent": 100,
+    "hz": 240
 }
     ]
 }

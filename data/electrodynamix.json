@@ -1,13 +1,18 @@
 {
     "id": 12208,
     "name": "Electrodynamix",
-    "author": "fcsAlex7",
+    "author": "FCSAlex7",
     "creators": [],
-    "verifier": "fcsAlex7",
+    "verifier": "[USA] FCSAlex7",
     "verification": "https://youtu.be/3oOyfD-n5Is",
     "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
-        
+{
+    "user": "CrazEyy",
+    "link": "https://youtu.be/5-8_88XVTCw",
+    "percent": 100,
+    "hz": 240
+}
     ]
 }
