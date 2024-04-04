@@ -8,6 +8,11 @@
     "percentToQualify": 46,
     "password": "Not Copyable",
     "records": [
-
+        {
+            "user": "Querta",
+            "link": "https://www.youtube.com/watch?v=svfB-bzB9os",
+            "percent":100,
+            "hz": 240 
+        }
     ]
 }
