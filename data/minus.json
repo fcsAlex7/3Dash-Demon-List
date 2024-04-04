@@ -8,11 +8,11 @@
     "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
-        {
-            "user": "Sydno",
-            "link": "https://www.youtube.com/watch?v=pPMtQWKOpMY",
-            "percent": 100,
-            "hz":240
-        }        
+{
+    "user": "Sydno",
+    "link": "https://www.youtube.com/watch?v=pPMtQWKOpMY",
+    "percent": 100,
+    "hz":240
+}        
     ]
 }

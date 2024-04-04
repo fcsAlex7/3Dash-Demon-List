@@ -10,13 +10,13 @@
     "records": [
 
 {
-    "user": "boro",
+    "user": "[UKR] boro",
     "link": "https://youtu.be/CqSTDvnNz10?t=301",
     "percent": 100,
     "hz": 60
 },
 {
-    "user": "Monstrosity",
+    "user": "[UK] Monstrosity",
     "link": "https://www.youtube.com/watch?v=1dDC2Ti3Pc8",
     "percent": 100,
     "hz": 144
@@ -34,7 +34,7 @@
     "hz": 60
 },
 {
-    "user": "fcsAlex7",
+    "user": "[USA] FCSAlex7",
     "link": "https://www.youtube.com/watch?v=GMzOUGB0kqg&list=PLfRJRBwGUZDmVSNhCeW9M4EqSc3ypons6&index=37&pp=iAQB",
     "percent": 100,
     "hz": 240
@@ -52,7 +52,7 @@
     "hz": 120
 },
 {
-    "user": "JujuPX",
+    "user": "[FRA] JujuPX",
     "link": "https://youtu.be/crBOZYWmdO0",
     "percent": 100,
     "hz": 60
@@ -70,13 +70,13 @@
     "hz": 60
 },
 {
-    "user": "egg",
+    "user": "[CAN] egg",
     "link": "https://www.youtube.com/watch?v=RWWVJEQeWJY",
     "percent": 100,
     "hz": 60
 },
 {
-    "user": "YoumanGY",
+    "user": "[FRA] YoumanGY",
     "link": "https://youtu.be/gHrz8gUu9Nw&t=607s",
     "percent": 100,
     "hz": 75
@@ -88,10 +88,16 @@
     "hz": 240
 },
 {
-    "user": "Kalendar",
+    "user": "[GER] Kalendar",
     "link": "https://youtu.be/pBqxr0qzd_4",
     "percent": 100,
     "hz": 360
-}            
+},
+{
+    "user": "[UK] gobbydobby",
+    "link": "https://www.youtube.com/watch?v=pUdaST180RI",
+    "percent": 100,
+    "hz": 360
+}          
     ]
 }
