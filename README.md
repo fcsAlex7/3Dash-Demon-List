@@ -1,5 +1,8 @@
-# The 3DashDemonList
+# The 3DasChallengeList
 
-a list for 3Dash+ (and 3Dash 1.3 in the future)
-I *Redactedslair* is currently the only active maintainer of the list. 
-there will soon be more active maintainers of the list soon.
+This is the branch for the 3Dash Challenge list!
+it will be used to show challenges that are made by the community and showing the people who legitimately have beaten these levels.
+
+# Current maintainers
+
+* [REDACTED]
