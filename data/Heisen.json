@@ -32,11 +32,19 @@
     "percent": 100,
     "hz": 240
 },
+
 {
     "user": "[ARG] LucaGMD",
     "link": "https://youtu.be/MyHp3txDDHI",
     "percent": 100,
     "hz": 360
+},
+
+{
+    "user": "[USA] Phantom",
+    "link": "youtube.com/video/WvuNZ5WjpWQ",
+    "percent": 100,
+    "hz": 144
 }
     ]
 }
