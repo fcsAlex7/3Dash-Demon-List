@@ -1,5 +1,5 @@
 {
-    "id": 9588,
+    "id": "3Dash+ 9588",
     "name": "no jokes",
     "author": "HydroPixels",
     "creators": [],
@@ -11,6 +11,12 @@
 {
     "user": "[USA] FCSAlex7",
     "link": "https://youtu.be/zpnyQoRgLJ8",
+    "percent": 100,
+    "hz": 240
+},
+{
+    "user": "CrazEyy",
+    "link": "https://youtu.be/-BekHcXXxSs",
     "percent": 100,
     "hz": 240
 }
