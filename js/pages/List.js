@@ -98,6 +98,9 @@ export default {
                             </li>
                         </ol>
                     </template>
+                    <h4>3Dash Downlads</h4>
+                    <p class="type-label-md">3Dash: <a href="https://delugedrop.itch.io/3dash" target="_blank">Download</a></p>
+                    <p class="type-label-md">3Dash+: <a href="https://3dash.mg95.dev" target="_blank">Download</a></p>
                     <h3>Submission Requirements</h3>
                     <p>
                         Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
