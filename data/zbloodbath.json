@@ -1,0 +1,36 @@
+{
+    "id": "3Dash+ 318",
+    "name": "Bloodbath",
+    "author": "Gecko",
+    "creators": [],
+    "verifier": "Gecko",
+    "verification": "https://www.youtube.com/watch?v=9xHhv_UeF04",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+{
+    "user": "[USA] FCSAlex7",
+    "link": "https://youtu.be/CTBeK7bPpL8",
+    "percent": 100,
+    "hz": 240
+},
+{
+    "user": "[COL] Mr.Pandequeso",
+    "link": "https://www.youtube.com/watch?v=aEOSo5Sz4ns",
+    "percent": 100,
+    "hz": 60
+},
+{
+    "user": "2SetViolinFan",
+    "link": "https://www.youtube.com/watch?v=b2cPD64z_lw",
+    "percent": 100,
+    "hz": 60
+},
+{
+    "user": "zhyvelle",
+    "link": "https://www.youtube.com/watch?v=c2-8f6hl9pQ",
+    "percent": 100,
+    "hz": 60
+}
+    ]
+}

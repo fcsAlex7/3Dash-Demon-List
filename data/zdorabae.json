@@ -1,0 +1,36 @@
+{
+    "id": "N/A",
+    "name": "dorabaebasic1",
+    "author": "bit",
+    "creators": [],
+    "verifier": "bit",
+    "verification": "https://www.youtube.com/watch?v=1bDej2KYI8k",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+{
+    "user": "welcomed",
+    "link": "https://www.youtube.com/watch?v=L3b1s5x1S2k",
+    "percent": 100,
+    "hz": 60
+},
+{
+    "user": "Mosu",
+    "link": "https://youtu.be/Xupl0eZr92M",
+    "percent": 100,
+    "hz": 60
+},
+{
+    "user": "zhyvelle",
+    "link": "https://www.youtube.com/watch?v=NCEpsdvdVcc",
+    "percent": 100,
+    "hz": 60
+},
+{
+    "user": "Valts",
+    "link": "https://www.youtube.com/watch?v=B-UHwL6QWTg&t=65s",
+    "percent": 100,
+    "hz": 60
+}
+    ]
+}
