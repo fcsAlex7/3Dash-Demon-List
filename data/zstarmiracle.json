@@ -1,0 +1,30 @@
+{
+    "id": "3Dash+ 5128",
+    "name": "star miracle",
+    "author": "Dragon312",
+    "creators": [],
+    "verifier": "Rubyrules",
+    "verification": "https://www.youtube.com/watch?v=Ft5LA-VAPOo",
+    "percentToQualify": "N/A",
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "[USA] FCSAlex7",
+            "link": "https://youtu.be/Ea7iUobgmuM",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Sydno",
+            "link": "https://www.youtube.com/watch?v=DoL2xcD9WDk",
+            "percent":100,
+            "hz": 60 
+        },
+        {
+            "user": "Valts",
+            "link": "https://www.youtube.com/watch?v=ML9cnWSZkgM",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
