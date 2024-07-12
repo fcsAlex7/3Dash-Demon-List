@@ -1,0 +1,24 @@
+{
+    "id": "3Dash+ 5132",
+    "name": "Scummery",
+    "author": "Vjks",
+    "creators": [],
+    "verifier": "Sydno",
+    "verification": "https://www.youtube.com/watch?v=n3MRA4Lic40",
+    "percentToQualify": "N/A",
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "[USA] FCSAlex7",
+            "link": "https://youtu.be/EoEXCKLV_Po",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Valts",
+            "link": "https://www.youtube.com/watch?v=anTRwXjYaMQ",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

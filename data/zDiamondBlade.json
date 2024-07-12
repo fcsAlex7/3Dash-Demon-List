@@ -1,0 +1,42 @@
+{
+    "id": "3Dash+ 317",
+    "name": "Diamond Blade Thing",
+    "author": "Sydno",
+    "creators": [],
+    "verifier": "Sydno",
+    "verification": "https://www.youtube.com/watch?v=0Egcd_WcnJI",
+    "percentToQualify": "N/A",
+    "password": "Not Copyable",
+    "records": [
+{
+    "user": "[USA] FCSAlex7",
+    "link": "https://www.youtube.com/watch?v=GMzOUGB0kqg",
+    "percent": 100,
+    "hz": 240
+},
+{
+    "user": "Valts",
+    "link": "https://www.youtube.com/watch?v=lbdnt5R4c5U",
+    "percent": 100,
+    "hz": 60
+},
+{
+    "user": "[HUN] Domesz",
+    "link": "https://www.youtube.com/watch?v=0_Y15QB2E9o",
+    "percent":100,
+    "hz": 60
+},
+{
+    "user": "Jellythecoolestguy",
+    "link": "https://www.youtube.com/watch?v=Te5QKTCJcvM",
+    "percent":100,
+    "hz": 60
+},
+{
+    "user": "woeq",
+    "link": "https://www.youtube.com/watch?v=WcP5SW5ZYHM",
+    "percent":100,
+    "hz": 60
+}
+    ]
+}
