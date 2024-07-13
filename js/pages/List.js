@@ -98,9 +98,19 @@ export default {
                             </li>
                         </ol>
                     </template>
+                    <h3>Changelogs</h3>
+                    <p>Nothing here, yet</p>
                     <h4>3Dash Downloads</h4>
-                    <p class="type-label-md">3Dash: <a href="https://delugedrop.itch.io/3dash" target="_blank">Download</a></p>
-                    <p class="type-label-md">3Dash+: <a href="https://3dash.mg95.dev" target="_blank">Download</a></p>
+                    <p>3Dash: <a href="https://delugedrop.itch.io/3dash" target="_blank">Download</a></p>
+                    <p>3Dash+: <a href="https://3dash.mg95.dev" target="_blank">Download</a></p>
+                    <h4>DEMON LIST REQUIREMENTS</h4>
+                    <p>#1: Level must be 30 seconds long.</p>
+
+                    <p>#2: Decoration must be decent enough. (we don't expect much)</p>
+
+                    <p>#3: Gameplay must be decently okay. (again, we don't expect much)</p>
+
+                    <p><a href="https://www.youtube.com/watch?v=PFZY1_Zuumw">Example Level</a></p>                    
                     <h3>Submission Requirements</h3>
                     <p>
                         Achieved the record without using hacks
