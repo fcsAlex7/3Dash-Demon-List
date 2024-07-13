@@ -98,20 +98,21 @@ export default {
                             </li>
                         </ol>
                     </template>
-                    <h3>Changelogs</h3>
-                    <p>Nothing here, yet</p>
                     <h4>3Dash Downloads</h4>
                     <p>3Dash: <a href="https://delugedrop.itch.io/3dash" target="_blank">Download</a></p>
                     <p>3Dash+: <a href="https://3dash.mg95.dev" target="_blank">Download</a></p>
                     <h4>DEMON LIST REQUIREMENTS</h4>
-                    <p>#1: Level must be 30 seconds long.</p>
+                    <p>#1: Level must be at least 30 seconds long</p>
 
-                    <p>#2: Decoration must be decent enough. (we don't expect much)</p>
+                    <p>#2: Decoration must be decent enough</p>
 
-                    <p>#3: Gameplay must be decently okay. (again, we don't expect much)</p>
+                    <p>#3: Gameplay must be decently okay</p>
+                
+                    <p>This is to avoid spam levels being on the list</p>
 
-                    <p><a href="https://www.youtube.com/watch?v=PFZY1_Zuumw">Example Level</a></p>                    
-                    <h3>Submission Requirements</h3>
+                    <p>Example Level: Chaotic Machine<p>
+                    
+                    <h3>Video Submission Requirements</h3>
                     <p>
                         Achieved the record without using hacks
                     </p>
@@ -134,11 +135,13 @@ export default {
                         Do not use secret routes or bug routes
                     </p>
                     <p>
-                        Do not use easy modes, only a record of the unmodified level qualifies. LDM's by the creator of said level will slide
+                        Do not use easy modes, only a record of the unmodified level qualifies. LDM's by the creator of said level will be allowed
                     </p>
                     <p>
                         Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
                     </p>
+                    <h3>Changelogs</h3>
+                    <p>Nothing New, Yet</p>
                 </div>
             </div>
         </main>
