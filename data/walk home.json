@@ -34,7 +34,7 @@
     "hz": 60
 },
 {
-    "user": "[USA] FCSAlex7",
+    "user": "{kys} FCSAlex7",
     "link": "https://www.youtube.com/watch?v=GMzOUGB0kqg",
     "percent": 100,
     "hz": 240
@@ -128,6 +128,12 @@
     "link": "https://www.youtube.com/watch?v=2uxJykZCyPU",
     "percent": 100,
     "hz": 144
+},
+{
+    "user": "Penstyy",
+    "link": "https://www.youtube.com/watch?v=oqwkk3AcAaE&ab_channel=Penstyy",
+    "percent": 100,
+    "hz": 100
 }
     ]
 }
