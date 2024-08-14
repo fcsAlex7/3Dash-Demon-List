@@ -1,0 +1,31 @@
+{
+
+    "id": 4852,
+    "name": "3SH",
+    "author": "Sombreras",
+    "creators": [],
+    "verifier": "Sombreras",
+    "verification": "https://youtu.be/GgADqY2glTQ",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+{
+    "user": "ChaseLux",
+    "link": "https://youtu.be/ePROmDJ9s7M?t=9",
+    "percent": 100,
+    "hz": 60
+},
+{
+    "user": "fWite",
+    "link": "https://youtu.be/eXPbI18gcwg?t=70",
+    "percent": 100,
+    "hz": 60
+},
+{
+    "user": "Exvie",
+    "link": "https://youtu.be/YPK8OtzLWho",
+    "percent": 100,
+    "hz": 60
+}
+    ]
+}

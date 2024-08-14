@@ -1,0 +1,25 @@
+{
+
+    "id": 6255,
+    "name": "Final Fantasy",
+    "author": "ChaseLux",
+    "creators": [],
+    "verifier": "ChaseLux",
+    "verification": "https://youtu.be/PT0b7GtCNQA",
+    "percentToQualify": 40,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Sombreras",
+            "link": "https://www.youtube.com/watch?v=H-b0wm4s5zc",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "ZTgoosebutarabic",
+            "link": "https://www.youtube.com/watch?v=ysQ6S4dZHk0",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
