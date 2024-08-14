@@ -1,0 +1,25 @@
+{
+
+    "id": 6202,
+    "name": "HORSE",
+    "author": "Zippiks",
+    "creators": [],
+    "verifier": "Zippiks",
+    "verification": "https://youtu.be/e6DQQNccpsM",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+{
+    "user": "ChaseLux",
+    "link": "https://www.youtube.com/watch?v=uXxW-3wqAos",
+    "percent": 100,
+    "hz": 60
+},
+{
+    "user": "DuckFNAF",
+    "link": "https://youtu.be/Ac6N5HPbVyI",
+    "percent": 100,
+    "hz": 60
+}
+    ]
+}

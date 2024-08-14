@@ -98,15 +98,25 @@ export default {
                             </li>
                         </ol>
                     </template>
+                    <h4>3Dash Downloads</h4>
+                    <p>3Dash: <a href="https://delugedrop.itch.io/3dash" target="_blank">Download</a></p>
+                    <p>3Dash+: <a href="https://3dash.mg95.dev" target="_blank">Download</a></p>
+                    <h4>CHALLENGE LIST REQUIREMENTS</h4>
+                    <p>#1: Level must be possible</p>
+
+                    <p>That's it, move on</p>    
                     <h3>Submission Requirements</h3>
                     <p>
-                        Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
+                        Achieved the record without using hacks
+                    </p>
+                    <p>
+                        If you do have hacks installed with cheat indicator, it must be on
                     </p>
                     <p>
                         Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
                     </p>
                     <p>
-                        Have either source audio or clicks/taps in the video. Edited audio only does not count
+                        Must have raw footage with clicks - the edited video doesn't require clicks
                     </p>
                     <p>
                         The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this
@@ -118,11 +128,13 @@ export default {
                         Do not use secret routes or bug routes
                     </p>
                     <p>
-                        Do not use easy modes, only a record of the unmodified level qualifies
+                        Do not use easy modes, only a record of the unmodified level qualifies. LDM's by the creator of said level will be allowed
                     </p>
                     <p>
                         Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
                     </p>
+                    <h3>Changelogs</h3>
+                    <p>Nothing Added Yet...</p>
                 </div>
             </div>
         </main>

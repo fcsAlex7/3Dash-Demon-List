@@ -1,0 +1,19 @@
+{
+
+    "id": 1285,
+    "name": "VSC",
+    "author": "sincos",
+    "creators": [],
+    "verifier": "sincos",
+    "verification": "https://youtu.be/HNPcPdZlNbY",
+    "percentToQualify": 55,
+    "password": "Not Copyable",
+    "records": [
+{
+    "user": "Valts",
+    "link": "https://www.youtube.com/watch?v=T1zqc4r0Cto",
+    "percent": 100,
+    "hz": 60
+}
+    ]
+}

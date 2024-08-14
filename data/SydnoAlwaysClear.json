@@ -1,0 +1,31 @@
+{
+
+    "id": 306,
+    "name": "Sydno Always Clear",
+    "author": "Ayueshi",
+    "creators": [],
+    "verifier": "Ayueshi",
+    "verification": "https://youtu.be/_pKTYwS6G50",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+{
+    "user": "Valts",
+    "link": "https://www.youtube.com/watch?v=J8mf-2B_Abc",
+    "percent": 100,
+    "hz": 60
+},
+{
+    "user": "ChaseLux",
+    "link": "https://youtu.be/c9G4SjUGO40",
+    "percent": 100,
+    "hz": 60
+},
+{
+    "user": "qn2h",
+    "link": "https://www.youtube.com/watch?v=RLuToqfX1gg",
+    "percent": 100,
+    "hz": 60
+}
+    ]
+}

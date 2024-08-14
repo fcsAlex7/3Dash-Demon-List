@@ -1,0 +1,25 @@
+{
+
+    "id": 3064,
+    "name": "Apathetic Anger",
+    "author": "Sydno",
+    "creators": [],
+    "verifier": "Sydno",
+    "verification": "https://youtu.be/LsYZgmGm5wE",
+    "percentToQualify": 40,
+    "password": "Not Copyable",
+    "records": [
+{
+    "user": "fWite",
+    "link": "https://youtu.be/oT58l015zVQ?t=615",
+    "percent": 100,
+    "hz": 60
+},
+{
+    "user": "ChaseLux",
+    "link": "https://www.youtube.com/watch?v=A_VSzjvakmM",
+    "percent": 100,
+    "hz": 60
+}
+    ]
+}

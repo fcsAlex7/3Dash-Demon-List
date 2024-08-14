@@ -1,0 +1,25 @@
+{
+
+    "id": 1363,
+    "name": "Sweaty Nuts",
+    "author": "Sydno",
+    "creators": [],
+    "verifier": "Sydno",
+    "verification": "https://youtu.be/EYmQ7TtUUO8",
+    "percentToQualify": 55,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Valts",
+            "link": "https://www.youtube.com/watch?v=xQBw0-vqtkQ",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "ChaseLux",
+            "link": "https://www.youtube.com/watch?v=8rPPFWyQ-Lc",
+            "percent": 63,
+            "hz": 60
+        }
+    ]
+}
