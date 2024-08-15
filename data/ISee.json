@@ -9,6 +9,11 @@
 "percentToQualify": 40,
 "password": "Not Copyable",
 "records": [
-   
+    {
+        "user": "[RUS] Sydno",
+        "link": "https://youtu.be/fZTUX1LbInA",
+        "percent": 100,
+        "hz": 60
+    }
 ]
     }

@@ -4,22 +4,11 @@
 "name": "Pinnacle Precision",
 "author": "Sydno",
 "creators": [],
-"verifier": "Sydno",
+"verifier": "[RUS] Sydno",
 "verification": "https://www.youtube.com/watch?v=CuMXhtuQS-0",
 "percentToQualify": 40,
 "password": "Not Copyable",
 "records": [
-{
-        "user": "ZTgoosebutarabic",
-        "link": "https://www.youtube.com/watch?v=73tqlNU4AGM",
-        "percent": 100,
-        "hz": 60
-},
-{
-    "user": "[Rus] bit",
-    "link": "https://www.youtube.com/watch?v=ijtZSQYMPg8",
-    "percent": 57,
-    "hz": 60
-}
+
 ]
 }
