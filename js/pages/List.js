@@ -134,7 +134,11 @@ export default {
                         Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
                     </p>
                     <h3>Changelogs</h3>
-                    <p>Nothing Added Yet...</p>
+                    <p>8/14/24 - Stercore Added At #1</p>
+                    
+                    <p>8/15/24 - dementia///dreamcore Added At #48</p>
+
+                    <p>8/15/24 - HD Added At #58</p>
                 </div>
             </div>
         </main>
