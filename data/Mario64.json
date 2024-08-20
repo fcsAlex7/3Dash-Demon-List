@@ -9,6 +9,11 @@
     "percentToQualify": 55,
     "password": "Not Copyable",
     "records": [
-       
+        {
+            "user": "ZTgoosebutarabic",
+            "link": "https://www.youtube.com/watch?v=xAznjL0RTMs",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
