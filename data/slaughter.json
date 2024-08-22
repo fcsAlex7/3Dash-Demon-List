@@ -68,10 +68,15 @@
     "percent": 100,
     "hz": 240
 },
-
 {
     "user":"[USA] Phantom",
     "link": "https://youtu.be/j1Weg59fMZU?si=UBwtacedtMDhlE3s",
+    "percent": 100,
+    "hz": 144
+},
+{
+    "user": "zemljotres",
+    "link": "https://youtu.be/horMkPrwW5E",
     "percent": 100,
     "hz": 144
 }
