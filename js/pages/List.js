@@ -139,6 +139,10 @@ export default {
                     <p>8/15/24 - dementia///dreamcore Added At #48</p>
 
                     <p>8/15/24 - HD Added At #58</p>
+
+                    <p>8/29/24 - easy challenge :) Added At #60</p>
+
+                    <p>8/29/24 - GET READY Added At #61</p>
                 </div>
             </div>
         </main>
