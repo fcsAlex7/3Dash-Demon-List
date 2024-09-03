@@ -29,7 +29,7 @@
     display: flex;
     align-items: center;
     justify-content: flex-end;
-    transform: translateX(250px);
+    transform: translateX(250px);    
 }
 .nav .nav__actions .nav__icon {
     height: 3rem;
