@@ -1,7 +1,7 @@
 :root {
     --color-background: white;
     --color-on-background: black;
-    --color-primary: #f700ff;
+    --color-primary: #be1e1e;
     --color-on-primary: white;
 }
 
@@ -16,6 +16,7 @@
     align-items: center;
     padding-inline: 0.5rem;
     transition: border-color 100ms ease;
+    
 }
 .nav .nav__tab.router-link-active {
     border-color: var(--color-on-primary);
@@ -28,6 +29,7 @@
     display: flex;
     align-items: center;
     justify-content: flex-end;
+    transform: translateX(250px);
 }
 .nav .nav__actions .nav__icon {
     height: 3rem;
