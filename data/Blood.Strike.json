@@ -9,6 +9,11 @@
     "percentToQualify": 40,
     "password": "Not Copyable",
     "records": [
-       
+        {
+            "user": "[RUS] bitmaaa",
+            "link": "https://youtu.be/t_c6xbAYEic?si=DSiqdUUk9yyMDn7e",
+            "percent": 100,
+            "hz": 360
+           }
     ]
 }
