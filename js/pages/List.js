@@ -143,6 +143,10 @@ export default {
                     <p>8/29/24 - easy challenge :) Added At #60</p>
 
                     <p>8/29/24 - GET READY Added At #61</p>
+
+                    <p>9/1/24 - мурманск Added At #25</p>
+
+                    <p>9/7/24 - Kris Tyson Challenge Added At #74</p>
                 </div>
             </div>
         </main>
