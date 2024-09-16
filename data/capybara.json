@@ -7,13 +7,19 @@
     "verifier": "[RUS] bitmaaa",
     "verification": "https://youtu.be/yr0KUmLqFxg",
     "percentToQualify": 100,
-    "password": "Not Copyable",
+    "password": "11",
     "records": [
 {
     "user": "fWite",
     "link": "https://youtu.be/k6kKtXmbHcM?t=81",
     "percent": 100,
     "hz": 60
+},
+{
+    "user": "[HUN] CrazEyy",
+    "link": "https://youtu.be/UOgXKemzs9I",
+    "percent": 100,
+    "hz": 240
 }
     ]
 }

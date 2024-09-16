@@ -7,7 +7,7 @@
     "verifier": "ShulkMode",
     "verification": "https://youtu.be/s5o-NserzUA",
     "percentToQualify": 100,
-    "password": "Not Copyable",
+    "password": "75",
     "records": [
 {
     "user": "Ayueshi",
@@ -110,6 +110,12 @@
     "link": "https://youtu.be/E8m8c9sCbxE",
     "percent": 100,
     "hz": 120
+},
+{
+    "user": "[HUN] CrazEyy",
+    "link": "https://youtu.be/UOgXKemzs9I",
+    "percent": 100,
+    "hz": 240
 }
     ]
 }

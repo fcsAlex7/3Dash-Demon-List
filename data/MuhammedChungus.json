@@ -7,13 +7,19 @@
     "verifier": "[RUS] Sydno",
     "verification": "https://youtu.be/5DxZczbRSY4",
     "percentToQualify": 40,
-    "password": "Not Copyable",
+    "password": "63",
     "records": [
 {
     "user": "fWite",
     "link": "https://youtu.be/p_00-q7V8w8?t=1807",
     "percent": 100,
     "hz": 60
+},
+{
+    "user": "[RUS] bitmaaa",
+    "link": "https://youtu.be/MLMq8TzeMoI?si=OBVc0Jx9xdin5mmP",
+    "percent": 100,
+    "hz": 360
 }
     ]
 }

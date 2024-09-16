@@ -7,8 +7,13 @@
     "verifier": "[FRA] JujuPX",
     "verification": "https://youtu.be/rkavYPMBCZk",
     "percentToQualify": 40,
-    "password": "Not Copyable",
+    "password": "255",
     "records": [
-       
+        {
+            "user": "[HUN] CrazEyy",
+            "link": "https://youtu.be/OcMwyApFiZI",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }

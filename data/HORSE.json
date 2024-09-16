@@ -7,7 +7,7 @@
     "verifier": "Zippiks",
     "verification": "https://youtu.be/e6DQQNccpsM",
     "percentToQualify": 100,
-    "password": "Not Copyable",
+    "password": "35",
     "records": [
 {
     "user": "ChaseLux",
@@ -20,6 +20,12 @@
     "link": "https://youtu.be/Ac6N5HPbVyI",
     "percent": 100,
     "hz": 60
+},
+{
+    "user": "[HUN] CrazEyy",
+    "link": "https://youtu.be/UOgXKemzs9I",
+    "percent": 100,
+    "hz": 240
 }
     ]
 }

@@ -7,7 +7,7 @@
     "verifier": "KrazySickGamer",
     "verification": "",
     "percentToQualify": 100,
-    "password": "Not Copyable",
+    "password": "85",
     "records": [
 {
     "user": "Ayueshi",
@@ -38,6 +38,12 @@
     "link": "https://www.youtube.com/watch?v=ZDkiURGGp6Q",
     "percent": 100,
     "hz": 60
+},
+{
+    "user": "[HUN] CrazEyy",
+    "link": "https://youtu.be/UOgXKemzs9I",
+    "percent": 100,
+    "hz": 240
 }
     ]
 }

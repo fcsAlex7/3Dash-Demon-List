@@ -7,7 +7,7 @@
     "verifier": "Spenguin",
     "verification": "https://youtu.be/6hg5-10PJsQ",
     "percentToQualify": 100,
-    "password": "Not Copyable",
+    "password": "58",
     "records": [
 {
     "user": "Gecko",
@@ -122,6 +122,12 @@
     "link": "https://www.youtube.com/watch?v=A72DVjE2KfY",
     "percent": 100,
     "hz": 60
+},
+{
+    "user": "[HUN] CrazEyy",
+    "link": "https://youtu.be/UOgXKemzs9I",
+    "percent": 100,
+    "hz": 240
 }
     ]
 }

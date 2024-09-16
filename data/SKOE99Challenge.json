@@ -7,8 +7,14 @@
     "verifier": "[RUS] Sydno",
     "verification": "https://youtu.be/--XiF809cEQ",
     "percentToQualify": 40,
-    "password": "Not Copyable",
+    "password": "176",
     "records": [
+        {
+            "user": "[RUS] bitmaaa",
+            "link": "https://youtu.be/MLMq8TzeMoI?si=OBVc0Jx9xdin5mmP",
+            "percent": 100,
+            "hz": 360
+        }
        
     ]
 }
