@@ -139,6 +139,8 @@ export default {
                     </p>
                     <h3>Changelogs</h3>
                     <p>7/18/24 - Bloodbath Added at #10</p>
+
+                    <p>9/9/24 - Kalbunga y Tobogan Added at #3</p>
                 </div>
             </div>
         </main>
