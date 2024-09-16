@@ -138,7 +138,7 @@ export default {
                         Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
                     </p>
                     <h3>Changelogs</h3>
-                    <p>7/18/24 - Bloodbath Added at #10</p>
+                    <p>9/15/24 - Shipping Added at #11</p>
                 </div>
             </div>
         </main>
