@@ -8,5 +8,11 @@
     "percentToQualify": 70,
     "password": "1456",
     "records": [
+        {
+            "user": "[HUN] CrazEyy",
+            "link": "https://youtu.be/0i-BT9zW1H8",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
