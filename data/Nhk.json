@@ -7,13 +7,19 @@
     "verifier": "Ayueshi",
     "verification": "https://youtu.be/PPXfd6ejnLs",
     "percentToQualify": 40,
-    "password": "Not Copyable",
+    "password": "195",
     "records": [
 {
     "user": "Sombreras",
     "link": "https://youtu.be/rzN950I0m98",
     "percent": 100,
     "hz": 60
+},
+{
+    "user": "[HUN] CrazEyy",
+    "link": "https://youtu.be/nh3x6_Kq7kI",
+    "percent": 100,
+    "hz": 240
 }
     ]
 }

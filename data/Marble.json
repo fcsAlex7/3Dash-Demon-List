@@ -7,7 +7,7 @@
     "verifier": "[RUS] Sydno",
     "verification": "https://youtu.be/h6dYHGcxUc4",
     "percentToQualify": 40,
-    "password": "Not Copyable",
+    "password": "187",
     "records": [
 {
     "user": "Valts",
@@ -20,6 +20,12 @@
     "link": "https://www.youtube.com/watch?v=iZ_kBpKaDkc",
     "percent": 100,
     "hz": 60
+},
+{
+    "user": "[HUN] CrazEyy",
+    "link": "https://youtu.be/UOgXKemzs9I",
+    "percent": 100,
+    "hz": 240
 }
     ]
 }

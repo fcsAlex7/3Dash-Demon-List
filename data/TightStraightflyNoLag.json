@@ -7,19 +7,25 @@
     "verifier": "[UK] Monstrosity",
     "verification": "https://youtu.be/BaUuHSw3rFw",
     "percentToQualify": 40,
-    "password": "Not Copyable",
+    "password": "34",
     "records": [
-        {
-            "user": "ChickenLicken",
-            "link": "https://www.youtube.com/watch?v=e44ql6Trghw",
-            "percent": 100,
-            "hz": 120
-           },
-           {
-           "user": "[RUS] bitmaaa",
-           "link": "https://youtu.be/fEQCTscYow0?si=th8RWFQ5pMT6yK2d",
-           "percent": 100,
-           "hz": 360
-          }
+{
+    "user": "ChickenLicken",
+    "link": "https://www.youtube.com/watch?v=e44ql6Trghw",
+    "percent": 100,
+    "hz": 120
+},
+{
+   "user": "[RUS] bitmaaa",
+   "link": "https://youtu.be/fEQCTscYow0?si=th8RWFQ5pMT6yK2d",
+   "percent": 100,
+   "hz": 360
+},
+{
+    "user": "[HUN] CrazEyy",
+    "link": "https://youtu.be/UOgXKemzs9I",
+    "percent": 100,
+    "hz": 240
+}
     ]
 }

@@ -7,8 +7,13 @@
     "verifier": "Penstyy",
     "verification": "https://www.youtube.com/watch?v=DQsVUBDTMVo",
     "percentToQualify": 40,
-    "password": "Not Copyable",
+    "password": "63",
     "records": [
-       
+        {
+            "user": "[HUN] CrazEyy",
+            "link": "https://youtu.be/UOgXKemzs9I",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }

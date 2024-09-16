@@ -7,13 +7,19 @@
     "verifier": "[UK] Monstrosity",
     "verification": "https://youtu.be/BMrOGfEY9i0",
     "percentToQualify": 40,
-    "password": "Not Copyable",
+    "password": "65",
     "records": [
         {
             "user": "[RUS] bitmaaa",
             "link": "https://youtu.be/t_c6xbAYEic?si=DSiqdUUk9yyMDn7e",
             "percent": 100,
             "hz": 360
-           }
+        },
+        {
+            "user": "[HUN] CrazEyy",
+            "link": "https://youtu.be/xcB4-WLuIbM",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }

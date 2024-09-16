@@ -7,7 +7,7 @@
     "verifier": "Sombreras",
     "verification": "https://clipchamp.com/watch/0WDbXvpJrlq",
     "percentToQualify": 100,
-    "password": "Not Copyable",
+    "password": "32",
     "records": [
 {
     "user": "ChaseLux",
@@ -20,6 +20,12 @@
     "link": "https://youtu.be/t_c6xbAYEic?si=DSiqdUUk9yyMDn7e",
     "percent": 100,
     "hz": 360
-   }
+},
+{
+    "user": "[HUN] CrazEyy",
+    "link": "https://youtu.be/UOgXKemzs9I",
+    "percent": 100,
+    "hz": 240
+}
     ]
 }

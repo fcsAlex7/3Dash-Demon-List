@@ -7,7 +7,7 @@
     "verifier": "[RUS] Sydno",
     "verification": "",
     "percentToQualify": 100,
-    "password": "Not Copyable",
+    "password": "370",
     "records": [
 {
     "user": "Exvie",
@@ -38,6 +38,12 @@
     "link": "https://www.youtube.com/watch?v=RLuToqfX1gg",
     "percent": 100,
     "hz": 60
+},
+{
+    "user": "[HUN] CrazEyy",
+    "link": "https://youtu.be/UOgXKemzs9I",
+    "percent": 100,
+    "hz": 240
 }
     ]
 }

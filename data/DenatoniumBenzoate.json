@@ -7,8 +7,13 @@
     "verifier": "Ayueshi",
     "verification": "https://youtu.be/Tz4qLUrQjQE",
     "percentToQualify": 40,
-    "password": "Not Copyable",
+    "password": "64",
     "records": [
-       
+        {
+            "user": "[HUN] CrazEyy",
+            "link": "https://youtu.be/YZ0d0Gp-j4I",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }

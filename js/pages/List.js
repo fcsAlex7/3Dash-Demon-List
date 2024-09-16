@@ -147,6 +147,10 @@ export default {
                     <p>9/1/24 - мурманск Added At #25</p>
 
                     <p>9/7/24 - Kris Tyson Challenge Added At #74</p>
+
+                    <p>9/15/24 - Grief Challenge Added At #20</p>
+
+                    <p>9/15/24 - Dfen Added At #58</p>
                 </div>
             </div>
         </main>
