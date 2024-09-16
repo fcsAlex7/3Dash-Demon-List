@@ -141,6 +141,8 @@ export default {
                     <p>7/18/24 - Bloodbath Added at #10</p>
 
                     <p>9/9/24 - Kalbunga y Tobogan Added at #3</p>
+
+                    <p>9/16/24 - Heaven Flowers Moved Down To Legacy</p>
                 </div>
             </div>
         </main>
