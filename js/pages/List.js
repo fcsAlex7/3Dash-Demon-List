@@ -25,7 +25,7 @@ export default {
                 <table class="list" v-if="list">
                     <tr v-for="([level, err], i) in list">
                         <td class="rank">
-                            <p v-if="i + 1 <= 77" class="type-label-lg">#{{ i + 1 }}</p>
+                            <p v-if="i + 1 <= 61" class="type-label-lg">#{{ i + 1 }}</p>
                             <p v-else class="type-label-lg">Legacy</p>
                         </td>
                         <td class="level" :class="{ 'active': selected == i, 'error': !level }">
@@ -138,11 +138,7 @@ export default {
                         Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
                     </p>
                     <h3>Changelogs</h3>
-                    <p>7/18/24 - Bloodbath Added at #10</p>
-
                     <p>9/9/24 - Kalbunga y Tobogan Added at #3</p>
-
-                    <p>9/16/24 - Heaven Flowers Moved Down To Legacy</p>
                 </div>
             </div>
         </main>
